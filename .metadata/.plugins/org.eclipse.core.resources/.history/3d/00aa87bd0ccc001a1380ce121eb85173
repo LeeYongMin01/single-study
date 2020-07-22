@@ -1,0 +1,31 @@
+package sec06.exam01;
+
+public class FloatDoubleExample {
+  public static void main(String[] args) {
+    //실수 리터럴을 float 변수에 그냥 저장할 수 없다.
+    //실수 리터럴을 float 타입 변수에 저장하려면 리터럴 뒤에 f,F를 붙여야함
+
+    double var1 =3.14;
+    float var2 =3.14f;
+    float var3 = 3.14F;
+    
+    System.out.println(var1);
+    System.out.println(var2);
+    System.out.println(var3);
+    
+    int var6 = 3000000;
+    double var7 = 3e6;
+    float var8 = 3e6f;
+    double var9 = 2e-3;
+    
+    System.out.println(var6);
+    System.out.println(var7);
+    System.out.println(var8);
+    System.out.println(var9);
+  }
+  
+  
+  
+  
+  
+}
