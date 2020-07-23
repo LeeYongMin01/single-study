@@ -1,0 +1,30 @@
+//변수의 종류 
+package com.eomcs.basic.ex04;
+
+public class Exam0400 {
+  public static void main(String[] args) {
+   // 정수
+    byte b;
+    short s;
+    int i;
+    long l;
+    
+    // 부동소수점
+    float f;
+    double d;
+    
+    // 문자 
+    char c;
+    
+    // 논리 
+    boolean bool;
+    
+    //레퍼런스
+    String str;
+    
+    
+    
+    
+    
+  }
+}

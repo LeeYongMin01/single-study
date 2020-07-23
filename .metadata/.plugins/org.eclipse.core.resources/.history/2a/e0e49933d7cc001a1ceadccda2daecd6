@@ -1,0 +1,20 @@
+package sec06.exam01;
+
+public class OperationsPromotionExample {
+  public static void main(String[] args) {
+    int intValue = 10;
+    double doubleValue = 5.5;
+    double result = intValue + doubleValue;
+    
+    //자바는 정수 연산일 경우 기본으로 int 타입을 사용한다.
+    //따라서, 4byte보다 작은 타입 byte,char,short 는 int 타입으로 변환된 후 연산이 수행됨
+    
+    char ai = 'A';
+    int result1 = ai +1;
+    char na = (char)result1;
+    
+    
+    
+  }
+  
+}
