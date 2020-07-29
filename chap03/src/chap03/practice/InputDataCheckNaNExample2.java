@@ -6,7 +6,7 @@ public class InputDataCheckNaNExample2 {
   // 연산되면 데이터가 엉망이 된다.
   // 따라서, 만약 NaN 값이 나온다면 산술 연살을 수행해서는 안된다.
   
-  public static vodi main(String[] args) {
+  public static void main(String[] args) {
     String userInput = "NaN";
     double val = Double.valueOf(userInput);
     
