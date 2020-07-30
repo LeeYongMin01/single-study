@@ -12,6 +12,12 @@
 	<item key="org.eclipse.jdt.uiformatter_page.preference_tree_expansion" value="00.0..0.0.000.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0.0.0.0.0..00.0.0.0.0.0.0..00.0.0.0..00.0.0.0...00.0.0..000.0..0.0..000.0.0.0.0.0.0.0.0.0.0.0...00.0..0.."/>
 	<item key="org.eclipse.jdt.uiformatter_page.preference_scroll_position" value="0"/>
 	<item key="org.eclipse.jdt.ui.codeformatter.loadpath" value="/home/bitcamp/다운로드"/>
+	<item key="clean_up_save_particpant_modify_dialog.last_focus" value="0"/>
+	<item key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index" value="3"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_width" value="995"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_height" value="938"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_x" value="502"/>
+	<item key="clean_up_save_particpant_modify_dialog.preferred_y" value="27"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -61,5 +67,12 @@
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="132"/>
+		<item key="DIALOG_Y_ORIGIN" value="-18"/>
+		<item key="DIALOG_WIDTH" value="372"/>
+		<item key="DIALOG_HEIGHT" value="621"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
 	</section>
 </section>
