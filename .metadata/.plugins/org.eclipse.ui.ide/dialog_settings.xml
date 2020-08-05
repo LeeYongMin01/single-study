@@ -3,6 +3,7 @@
 	<section name="ResourceNavigator">
 		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
 		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1595235868896"/>
+		<item key="LINK_NAVIGATOR_TO_EDITOR" value="true"/>
 	</section>
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
@@ -12,6 +13,13 @@
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
 			<item value="/home/bitcamp/git/eomcs-java-basic"/>
+			<item value="/home/bitcamp/git/bitcamp-20200713"/>
+			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -04"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -02"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -03"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -05"/>
+			<item value="/home/bitcamp/바탕화면/bitcamp-java-project -05"/>
 			<item value="/home/bitcamp/eomcs-java-basic"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-basic"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project"/>
@@ -29,10 +37,13 @@
 	</section>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
-		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -05"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -04"/>
+			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>
 			<item value="/home/bitcamp/git/eomcs-java-basic"/>
 		</list>
 	</section>
