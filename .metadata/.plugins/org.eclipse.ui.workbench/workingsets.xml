@@ -2,13 +2,6 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595235866189_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595235866200_1" label="Java Test Sources" name="Java Test Sources"/>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596612313228_4" label="Single-study" name="Single-study">
-<item elementID="=chap01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=chap03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=chap02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=chap04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=chap05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-</workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596612339475_5" label="bitcamp-Class" name="bitcamp-Class">
 <item elementID="=bitcamp-java-basic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=eomcs-java-project-2020" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -19,6 +12,15 @@
 <item elementID="=bitcamp-java-project -03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=bitcamp-java-project -04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=bitcamp-java-project -05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596626631435_6" label="Single-study" name="Single-study">
+<item elementID="=chap01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap02" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap03" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap06" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap07" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595235868896_2" label="Window Working Set" name="Aggregate for window 1595235868896"/>
 </workingSetManager>
