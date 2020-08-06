@@ -11,5 +11,6 @@
     <fullyQualifiedTypeName name="com.eomcs.corelib.ex03.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.eomcs.util.Calculator"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

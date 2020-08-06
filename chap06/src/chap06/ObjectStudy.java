@@ -1,4 +1,4 @@
-package chap07;
+package chap06;
 
 public class ObjectStudy {
 /*

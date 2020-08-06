@@ -1,6 +1,6 @@
-package chap07;
+package chap06;
 
-import chap07.util.Student;
+import chap06.util.Student;
 
 public class StudentExample {
 

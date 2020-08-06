@@ -1,4 +1,4 @@
-package chap07.util;
+package chap06.util;
 
 public class Student {
 

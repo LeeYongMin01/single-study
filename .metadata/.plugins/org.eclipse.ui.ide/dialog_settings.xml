@@ -12,6 +12,10 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/bitcamp/eclipse-workspace/chap04"/>
+			<item value="/home/bitcamp/eclipse-workspace/chap03"/>
+			<item value="/home/bitcamp/eclipse-workspace/chap02"/>
+			<item value="/home/bitcamp/eclipse-workspace/chap01"/>
 			<item value="/home/bitcamp/git/eomcs-java-basic"/>
 			<item value="/home/bitcamp/git/bitcamp-20200713"/>
 			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>

@@ -20,7 +20,6 @@
 <item elementID="=chap04" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=chap05" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=chap06" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=chap07" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595235868896_2" label="Window Working Set" name="Aggregate for window 1595235868896"/>
 </workingSetManager>
