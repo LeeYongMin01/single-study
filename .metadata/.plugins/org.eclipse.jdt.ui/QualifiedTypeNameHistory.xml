@@ -12,5 +12,9 @@
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.eomcs.util.Calculator"/>
+    <fullyQualifiedTypeName name="com.eomcs.oop.ex02.util.Score"/>
+    <fullyQualifiedTypeName name="com.eomcs.oop.ex03.Exam0162.Member"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="chap06.util.FieldInitValue"/>
+    <fullyQualifiedTypeName name="chap06.util.Korean"/>
 </qualifiedTypeNameHistroy>
