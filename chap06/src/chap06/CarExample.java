@@ -1,5 +1,7 @@
 package chap06;
 
+import chap06.util.Car;
+
 // 외부 클래스에서 Car 필드값 읽기와 변경
 
 public class CarExample {
@@ -18,11 +20,10 @@ public class CarExample {
 // 타입 필드에는 기본타입, 참조타입이 모두 올 수 있다.
 // ex) String company = "현대자동차";, int currentSpeed;
 
-
-/*  public static void main(String[] args) {
+	/*public static void main(String[] args) {
     // 객체 생성
 
-    Car myCar = new Car();
+    Car myCar = new Car(); 
 
     // 필드값 읽기
     System.out.println("제작회사: " + myCar.company);
@@ -35,9 +36,9 @@ public class CarExample {
     myCar.speed = 60;
     System.out.println("수정된 속도: " + myCar.speed);
   }
+
+
 */
-
-
 
 // 2. 생성자
 // new 연산자로 호출되는 특별한 중괄호다.
@@ -76,8 +77,18 @@ public class CarExample {
 // 생성자
 //   Car(String model, String color, int maxSpeed)
 //}
+// 생성자 오버로딩
+// CarExample1 참고
 
-//  Car myCar = new Car("검정", 3000); <= color에 검정을 받고 cc에 3000을 받음
+//this()로 다른 생성자 호출
+//this()는 자신의 다른 생성자를 호출하는 코드
+//필드 초기화 내용을 한 생성자에 집중적으로 작성하고 
+//나머지 생성자는 초기화 내용을 가지고 있는 생성자를 호출하는 방법으로 사용
+
+	
+	
+	
+// Car myCar = new Car("검정", 3000); <= color에 검정을 받고 cc에 3000을 받음
   // Car myCar = new Car(); // 기본 생성자를 호출할 수 없음
 
 

@@ -6,10 +6,10 @@ public class Car {
 
   // 필드
   public String company = "현대자동차";
-  public String model = "그렌져";
-  public String color = "검정";
-  public int maxSpeed = 350;
-  public int speed;
+  public String model;
+  public String color;
+  public int maxSpeed;
+  
 
 
 
@@ -18,8 +18,22 @@ public class Car {
 
 
 // 생성자
-
-  public Car(String color, int cc) {
-
+  public Car(){
+  }	//생성자 1
+  
+  public Car(String model){
+//	  this.model = model;  // 생성자 2 
+	  this(model, "은색", 250);
+  }
+  
+  public Car(String model, String color) {
+//	  this.color = color; // 생성자 3
+	  this(model, "은색", 250);
+  }
+  
+  public Car(String model, String color, int maxSpeed) {
+	  this.model = model;
+	  this.color = color;
+	  this.maxSpeed = maxSpeed;	// 생성자 4
   }
 }
