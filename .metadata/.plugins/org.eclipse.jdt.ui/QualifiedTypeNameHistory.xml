@@ -28,4 +28,6 @@
     <fullyQualifiedTypeName name="chap06.util.Car2"/>
     <fullyQualifiedTypeName name="chap06.util.Caculator2"/>
     <fullyQualifiedTypeName name="chap06.util.Calculator2"/>
+    <fullyQualifiedTypeName name="com.eomcs.oop.ex05.d.Sedan"/>
+    <fullyQualifiedTypeName name="chap06.util.Calculator3"/>
 </qualifiedTypeNameHistroy>

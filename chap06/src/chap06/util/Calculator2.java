@@ -19,4 +19,9 @@ public class Calculator2 {
   public double areaRectangle(double width, double height) {
     return width * height;
   }
+
+  public static int plus(int i, int j) {
+    // TODO Auto-generated method stub
+    return 0;
+  }
 }
