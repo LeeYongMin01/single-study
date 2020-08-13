@@ -31,4 +31,9 @@
     <fullyQualifiedTypeName name="com.eomcs.oop.ex05.d.Sedan"/>
     <fullyQualifiedTypeName name="chap06.util.Calculator3"/>
     <fullyQualifiedTypeName name="chap06.util.Person"/>
+    <fullyQualifiedTypeName name="com.eomcs.corelib.ex01.Exam0121.My"/>
+    <fullyQualifiedTypeName name="chap06.util.Car4"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.security.Provider.Service"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
 </qualifiedTypeNameHistroy>
