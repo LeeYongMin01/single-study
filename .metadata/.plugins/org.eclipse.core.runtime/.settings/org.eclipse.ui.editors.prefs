@@ -5,7 +5,6 @@ printMarginColumn=100
 removeSpacesAsTabs=true
 showCarriageReturn=false
 showLineFeed=false
-showWhitespaceCharacters=true
 spacesForTabs=true
 tabWidth=2
 whitespaceCharacterAlphaValue=30

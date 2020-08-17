@@ -8,6 +8,6 @@ public class Child extends Parent {
 		System.out.println("Child-method2()"); // 메소드 재정의
 	}
 	public void method3() {
-		System.out.println("Child-method3");
+		System.out.println("Child-method3()");
 	}
 }
