@@ -8,7 +8,7 @@ public class MainStringArrayArgument {
 /*
  java 클래스로 프로그램을 실행하면 JVM은 길이가 0 인 String 배열을 먼저 생성하고
  main() 메서드를 호출할 때 매개값으로 전달한다.
- String[] args = {}; ==>main() 메소드 호출 시 전달 ==> public static void main(String[] args)
+ String[] args = {}; ==> main() 메소드 호출 시 전달 ==> public static void main(String[] args)
 => main() 메소드는 String[] args 매개 변수를 통해서 배열의 길이와 배열의 항목 값을
 알 수 있게 된다.
 */
