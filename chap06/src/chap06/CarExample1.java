@@ -15,7 +15,7 @@ public class CarExample1 {
 		
 		Car car3 = new Car("자가용", "빨강"); // 생성자 선택
 		System.out.println("car3.company : " + car3.company);
-		System.out.println("car2.model : " + car2.model);
+		System.out.println("car3.model : " + car3.model);
 		System.out.println("car3.color : " + car3.color);
 		System.out.println();
 		
