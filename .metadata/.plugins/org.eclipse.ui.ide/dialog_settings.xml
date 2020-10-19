@@ -12,6 +12,11 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-client"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -33-b"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -33-a"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-33-a"/>
 			<item value="/home/bitcamp/eclipse-workspace/chap06"/>
 			<item value="/home/bitcamp/eclipse-workspace/chap04"/>
 			<item value="/home/bitcamp/eclipse-workspace/chap03"/>
@@ -27,7 +32,6 @@
 			<item value="/home/bitcamp/바탕화면/bitcamp-java-project -05"/>
 			<item value="/home/bitcamp/eomcs-java-basic"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-basic"/>
-			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -53,5 +57,24 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="490"/>
+		<item key="DIALOG_HEIGHT" value="486"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="573"/>
+		<item key="DIALOG_Y_ORIGIN" value="260"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="/home/bitcamp/bitcamp-workspace"/>
 	</section>
 </section>
