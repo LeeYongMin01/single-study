@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap06.util.FieldInitValue"/>
-    <fullyQualifiedTypeName name="chap06.util.Korean"/>
-    <fullyQualifiedTypeName name="com.eomcs.oop.ex03.Exam0160.Member"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.Calendar"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="chap06.util.Computer"/>
-    <fullyQualifiedTypeName name="chap06.util.Car1"/>
-    <fullyQualifiedTypeName name="chap06.util.Calculator"/>
-    <fullyQualifiedTypeName name="chap06.util.Car2"/>
-    <fullyQualifiedTypeName name="chap06.util.Caculator2"/>
-    <fullyQualifiedTypeName name="chap06.util.Calculator2"/>
-    <fullyQualifiedTypeName name="com.eomcs.oop.ex05.d.Sedan"/>
     <fullyQualifiedTypeName name="chap06.util.Calculator3"/>
     <fullyQualifiedTypeName name="chap06.util.Person"/>
     <fullyQualifiedTypeName name="com.eomcs.corelib.ex01.Exam0121.My"/>
@@ -36,7 +23,6 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
     <fullyQualifiedTypeName name="com.eomcs.pms.listener.DataHandlerListener"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.eomcs.pms.listener.AppInitListener"/>
     <fullyQualifiedTypeName name="com.eomcs.context.ApplicationContextListener"/>
     <fullyQualifiedTypeName name="java.util.Hashtable"/>
@@ -59,5 +45,19 @@
     <fullyQualifiedTypeName name="com.eomcs.design_pattern.flyweight.after.BrushPool"/>
     <fullyQualifiedTypeName name="com.eomcs.design_pattern.flyweight.after.Brush"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.eomcs.util.concurrent.ThreadPool"/>
+    <fullyQualifiedTypeName name="scene.c3.Audio"/>
+    <fullyQualifiedTypeName name="scene.c3.Television"/>
+    <fullyQualifiedTypeName name="scene.c2.RemoteControl"/>
+    <fullyQualifiedTypeName name="scene.c5.HankookTire"/>
+    <fullyQualifiedTypeName name="scene.c5.KumhoTire"/>
+    <fullyQualifiedTypeName name="scene.c5.Vehicle"/>
+    <fullyQualifiedTypeName name="scene.c6.InterFaceA"/>
+    <fullyQualifiedTypeName name="scene.c6.InterFaceB"/>
+    <fullyQualifiedTypeName name="com.word.chain.domain.Member"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.word.util.Prompt"/>
 </qualifiedTypeNameHistroy>

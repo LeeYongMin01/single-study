@@ -12,6 +12,12 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/bitcamp/mini-project"/>
+			<item value="/home/bitcamp/word-chain-game"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server -36-b"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server -34-g"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server -35"/>
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server -36-a"/>
 			<item value="/home/bitcamp/eclipse-workspace/chap08"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-client"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server"/>
@@ -26,12 +32,6 @@
 			<item value="/home/bitcamp/git/eomcs-java-basic"/>
 			<item value="/home/bitcamp/git/bitcamp-20200713"/>
 			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>
-			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -04"/>
-			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -02"/>
-			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -03"/>
-			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -05"/>
-			<item value="/home/bitcamp/바탕화면/bitcamp-java-project -05"/>
-			<item value="/home/bitcamp/eomcs-java-basic"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
