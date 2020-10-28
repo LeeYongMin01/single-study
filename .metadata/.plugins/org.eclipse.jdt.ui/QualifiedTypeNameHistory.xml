@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="chap06.util.Calculator3"/>
-    <fullyQualifiedTypeName name="chap06.util.Person"/>
-    <fullyQualifiedTypeName name="com.eomcs.corelib.ex01.Exam0121.My"/>
-    <fullyQualifiedTypeName name="chap06.util.Car4"/>
     <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
     <fullyQualifiedTypeName name="java.security.Provider.Service"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="com.word.chain.domain.Member"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.word.util.Prompt"/>
+    <fullyQualifiedTypeName name="scene.c2.A.B"/>
+    <fullyQualifiedTypeName name="scene.c2.A"/>
+    <fullyQualifiedTypeName name="java.sql.Driver"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 </qualifiedTypeNameHistroy>

@@ -17,6 +17,7 @@
 <item elementID="=chap07" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=chap08" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=chap09" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=chap12" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1602547991944_6" label="practice" name="practice">
 <item elementID="=bitcamp-java-project-server-36-b" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>

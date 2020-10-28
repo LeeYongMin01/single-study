@@ -12,6 +12,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/bitcamp/eclipse-workspace/chap09"/>
 			<item value="/home/bitcamp/mini-project"/>
 			<item value="/home/bitcamp/word-chain-game"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project-server -36-b"/>
@@ -31,7 +32,6 @@
 			<item value="/home/bitcamp/eclipse-workspace/chap01"/>
 			<item value="/home/bitcamp/git/eomcs-java-basic"/>
 			<item value="/home/bitcamp/git/bitcamp-20200713"/>
-			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
@@ -50,6 +50,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-basic/db"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -05"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -04"/>
 			<item value="/home/bitcamp/git/eomcs-java-project-2020"/>
