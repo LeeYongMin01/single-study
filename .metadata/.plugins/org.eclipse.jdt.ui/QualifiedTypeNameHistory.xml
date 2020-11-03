@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
-    <fullyQualifiedTypeName name="java.security.Provider.Service"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
-    <fullyQualifiedTypeName name="com.eomcs.corelib.ex03.MyArrayList"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="com.eomcs.algorithm.data_structure.linkedlist.MyLinkedList"/>
@@ -23,7 +18,6 @@
     <fullyQualifiedTypeName name="com.eomcs.context.ApplicationContextListener"/>
     <fullyQualifiedTypeName name="java.util.Hashtable"/>
     <fullyQualifiedTypeName name="com.eomcs.pms.domain.Board"/>
-    <fullyQualifiedTypeName name="com.eomcs.pms.domain.Member"/>
     <fullyQualifiedTypeName name="com.eomcs.pms.domain.Project"/>
     <fullyQualifiedTypeName name="com.eomcs.pms.domain.Task"/>
     <fullyQualifiedTypeName name="java.io.PrintStream"/>
@@ -36,14 +30,12 @@
     <fullyQualifiedTypeName name="com.eomcs.util.Prompt"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="com.eomcs.design_pattern.flyweight.after.BrushPool"/>
     <fullyQualifiedTypeName name="com.eomcs.design_pattern.flyweight.after.Brush"/>
     <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.eomcs.util.concurrent.ThreadPool"/>
     <fullyQualifiedTypeName name="scene.c3.Audio"/>
     <fullyQualifiedTypeName name="scene.c3.Television"/>
@@ -54,10 +46,18 @@
     <fullyQualifiedTypeName name="scene.c6.InterFaceA"/>
     <fullyQualifiedTypeName name="scene.c6.InterFaceB"/>
     <fullyQualifiedTypeName name="com.word.chain.domain.Member"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.word.util.Prompt"/>
     <fullyQualifiedTypeName name="scene.c2.A.B"/>
     <fullyQualifiedTypeName name="scene.c2.A"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
     <fullyQualifiedTypeName name="java.sql.Driver"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.eomcs.pms.domain.Member"/>
 </qualifiedTypeNameHistroy>

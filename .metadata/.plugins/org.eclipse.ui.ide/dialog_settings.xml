@@ -50,6 +50,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/bitcamp/git/eomcs-docs"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-basic/db"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -05"/>
 			<item value="/home/bitcamp/bitcamp-workspace/bitcamp-java-project -04"/>

@@ -6,6 +6,7 @@
 <item elementID="=eomcs-java-project-2020" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=bitcamp-20200713" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=eomcs-java-basic" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/eomcs-docs" type="4"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596626631435_6" label="Single-study" name="Single-study">
 <item elementID="=chap01" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
